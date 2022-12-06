@@ -1,16 +1,16 @@
 [
   {
     "id": "com.mezhevikin.converter",
-    "ver": "3.0",
-    "url": "https://apps.apple.com/app/id1457309557",
     "os": "ios",
-    "osVer": "13.0"
+    "osVer": "13.0",
+    "ver": "3.0",
+    "url": "https://apps.apple.com/app/id1457309557"
   },
   {
     "id": "com.mezhevikin.converter",
-    "ver": "3.0",
-    "url": "https://play.google.com/store/apps/details?id=com.mezhevikin.converter",
     "os": "android",
-    "osVer": "5.0"
+    "osVer": "5.0",
+    "ver": "3.0",
+    "url": "https://play.google.com/store/apps/details?id=com.mezhevikin.converter"
   }
 ]
