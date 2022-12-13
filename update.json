@@ -3,14 +3,14 @@
     "id": "com.mezhevikin.converter",
     "minVersion": "3.0",
     "url": "https://apps.apple.com/app/id1457309557",
-    "os": "ios",
-    "minOsVersion": "13.0"
+    "system": "ios",
+    "minSystemVersion": "13.0"
   },
   {
     "id": "com.mezhevikin.converter",
     "minVersion": "3.0",
     "url": "https://play.google.com/store/apps/details?id=com.mezhevikin.converter",
-    "os": "android",
-    "minOsVersion": "5.0"
+    "system": "android",
+    "minSystemVersion": "5.0"
   }
 ]
