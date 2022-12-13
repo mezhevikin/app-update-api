@@ -7,9 +7,9 @@
     "minOsVer": "13.0"
   },
   {
+    "id": "com.mezhevikin.converter",
     "minVer": "3.0",
     "url": "https://play.google.com/store/apps/details?id=com.mezhevikin.converter",
-    "id": "com.mezhevikin.converter",
     "os": "android",
     "minOsVer": "5.0"
   }
